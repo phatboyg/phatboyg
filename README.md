@@ -1,4 +1,10 @@
-### Hi there 👋
+### Hi
+
+
+- 🔭 I’m always working on [MassTransit](https://github.com/MassTransit/MassTransit)
+
+![Microsoft MVP](images/MVP_Horizontal_BlueOnly.png)
+
 
 <!--
 **phatboyg/phatboyg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
