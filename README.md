@@ -3,7 +3,8 @@
 
 - 🔭 I’m always working on [MassTransit](https://github.com/MassTransit/MassTransit)
 
-![Microsoft MVP](images/MVP_Horizontal_BlueOnly.png)
+![Microsoft MVP](https://github.com/phatboyg/phatboyg/raw/master/images/MVP_Horizontal_BlueOnly.png)
+
 
 
 <!--
