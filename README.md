@@ -4,6 +4,9 @@
 - 🔭 I’m always working on [MassTransit](https://github.com/MassTransit/MassTransit)
 - 💬 Let's chat [![Discord](https://img.shields.io/discord/682238261753675864)](https://discord.gg/rNpQgYn)
 - 🖥 Watch me on [![Twitch Status](https://img.shields.io/twitch/status/phatboyg)](https://twitch.tv/phatboyg)
+
+
+
 ![Microsoft MVP](https://github.com/phatboyg/phatboyg/raw/master/images/MVP_Horizontal_BlueOnly.png)
 
 
