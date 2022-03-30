@@ -5,7 +5,6 @@
 
 ![Microsoft MVP](https://github.com/phatboyg/phatboyg/raw/master/images/MVP_Horizontal_BlueOnly.png)
 [![Discord](https://img.shields.io/discord/682238261753675864)](https://discord.gg/rNpQgYn)
-[![Twitch Status](https://img.shields.io/twitch/status/phatboyg)](https://twitch.tv/phatboyg)
 
 <!--
 **phatboyg/phatboyg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
