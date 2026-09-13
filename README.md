@@ -1,22 +1,18 @@
-### Hi
+### MassTransit Founder, CEO at Massient, Inc.
 
-- 🔭 I’m always working on [MassTransit](https://github.com/MassTransit/MassTransit)
+#### MassTransit
 
+I'm the co-creator and primary maintainer of [MassTransit](https://masstransit.massient.com), 
+a distributed application framework for .NET that's been in active development since 2007.
+
+#### Massient
+
+I founded [Massient](https://massient.com) to provide the commercial development, maintenance, and support behind MassTransit.
+
+MassTransit v9 continues the framework's development under a commercial license, focused on sustainability, 
+performance, reliability, and the developer experience.
 
 ![Microsoft MVP](https://github.com/phatboyg/phatboyg/raw/master/images/MVP_Horizontal_BlueOnly.png)
+
+
 [![Discord](https://img.shields.io/discord/682238261753675864)](https://discord.gg/rNpQgYn)
-
-<!--
-**phatboyg/phatboyg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
